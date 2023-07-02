@@ -1,0 +1,10 @@
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/lib/CMakeFiles/sandpile.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/lib/CMakeFiles/parsing.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/lib/CMakeFiles/bmp.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/lib/CMakeFiles/edit_cache.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/lib/CMakeFiles/rebuild_cache.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/bin/CMakeFiles/lab3.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/bin/CMakeFiles/edit_cache.dir
+C:/Users/nikha/CLionProjects/labwork-3-nikhabitmo/cmake-build-debug/bin/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,71 @@
+[33mcommit 47b941772608eb562052d53eee29611a588ffd63[m[33m ([m[1;36mHEAD -> [m[1;32mdeadline_2[m[33m)[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Mon Feb 6 00:46:52 2023 +0300
+
+    some_remarks
+
+[33mcommit 2be6904b52d81083075c1bbb9d482a25c0ebf4f6[m[33m ([m[1;31morigin/deadline_2[m[33m)[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Sun Jan 15 11:50:01 2023 +0300
+
+    v1.0
+
+[33mcommit b8910314f7902b30ad0eea6d6af9dd75b584cea1[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Fri Jan 13 09:32:19 2023 +0300
+
+    pre_release_version
+
+[33mcommit 69eb1cd808f6204f8da83742509d9f7fb614d3c1[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Tue Jan 10 12:52:25 2023 +0300
+
+    arrays_done
+
+[33mcommit 29995a39d66044d3ba850cbdd84f2009c1d7caba[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Tue Jan 10 10:12:08 2023 +0300
+
+    all_done_before_arrays
+
+[33mcommit 1541c73365c9f7ac135397ab7397f4d1e7178a3e[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Mon Jan 9 16:30:21 2023 +0300
+
+    sections_done
+
+[33mcommit e9aa2883d629385d24abd2ece128ae7eca7ed599[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Mon Jan 9 11:16:30 2023 +0300
+
+    sections_works
+
+[33mcommit 78c8419b2f5e4d8e38579dcf14eaf6b1a0789c93[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Sun Jan 8 01:03:17 2023 +0300
+
+    all_primit_works
+
+[33mcommit 4dcc002878417c59736a57fc25d6660dd31b138d[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Fri Jan 6 03:09:36 2023 +0300
+
+    added_funcs_struct
+
+[33mcommit b727ab9f7f37abced54d39f6d542c735357876a8[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Thu Dec 22 17:04:16 2022 +0300
+
+    realization(int,float,string,bool)
+
+[33mcommit 88a670d5f75ea34bb8cd3ea5c6e8114c07025b74[m[33m ([m[1;32mdeadline_1[m[33m)[m
+Author: nikhabitmo <nihabarov@gmail.com>
+Date:   Mon Dec 19 12:38:54 2022 +0300
+
+    before_remake
+
+[33mcommit 05412d8d024657da547177b6c28547b5e1d7b4f0[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: github-classroom[bot] <66690702+github-classroom[bot]@users.noreply.github.com>
+Date:   Mon Nov 28 18:10:26 2022 +0000
+
+    Initial commit
